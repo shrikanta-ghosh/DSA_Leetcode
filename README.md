@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Hash Table
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
