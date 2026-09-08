@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
