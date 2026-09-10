@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0283-move-zeroes) |
@@ -32,12 +33,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -51,11 +54,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -69,4 +74,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
