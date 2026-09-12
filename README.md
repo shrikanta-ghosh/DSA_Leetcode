@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
