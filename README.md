@@ -54,6 +54,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2595-number-of-even-and-odd-bits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Sorting
 |  |
 | ------- |
