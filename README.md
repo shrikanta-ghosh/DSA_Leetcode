@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0189-rotate-array) |
