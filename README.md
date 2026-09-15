@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
