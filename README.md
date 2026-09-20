@@ -21,6 +21,7 @@
 | [0258-add-digits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
@@ -35,6 +36,7 @@
 | [0283-move-zeroes](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2974-minimum-number-game](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
