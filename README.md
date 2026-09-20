@@ -7,6 +7,7 @@
 | [0189-rotate-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2974-minimum-number-game](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -70,6 +72,7 @@
 | [0169-majority-element](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
