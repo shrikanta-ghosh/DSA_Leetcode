@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shrikanta-ghosh/DSA_Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
